@@ -83,4 +83,5 @@ int main(int argc, char* argv[])
 	myptr3 = myptr1;
 	cout<<myptr3.get_ref_count();
 	getchar();
-£ý
+	return 0;
+}
